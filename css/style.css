@@ -32,6 +32,17 @@ p {
   text-align: center;
 }
 
+pm {
+  color: #FFF;
+  font-size: 160%;
+  line-height: 155%;
+  padding: 3%;
+  text-indent: 2%;
+  text-align: center;
+  float: inherit;
+  font-weight: bold;
+}
+
 h3 {
   font-size: 175%;
   line-height: 155%;
@@ -137,7 +148,7 @@ a:hover {
   float: none;
   display: inline-block;
   vertical-align: top;
-  padding: 10px 90px;
+  padding: 10px 50px;
   width: 250px;
 }
 
